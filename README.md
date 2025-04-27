@@ -1,6 +1,6 @@
 # Laravel SBI Inventory
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red) ![PHP](https://img.shields.io/badge/PHP-^8.1-blue) ![Tests](https://img.shields.io/badge/tests-coverage-green)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red) ![PHP](https://img.shields.io/badge/PHP-^8.2-blue) ![Tests](https://img.shields.io/badge/tests-coverage-green)
 
 > **Простой модуль учёта товаров** на Laravel с REST API, строгой валидацией, чистой архитектурой (Repository & Service паттерны), unit‑тестами и экспортом данных в Excel через очередь.
 
